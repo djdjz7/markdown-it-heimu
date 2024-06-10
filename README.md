@@ -4,6 +4,7 @@ Markdown It 插件，类似于萌娘百科的黑幕。
 
 ## 安装
 ```shell
+pnpm i -D markdown-it-heimu
 ```
 
 ## 使用
