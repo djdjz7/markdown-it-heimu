@@ -24,5 +24,6 @@
   "homepage": "https://github.com/djdjz7/markdown-it-heimu#readme",
   "devDependencies": {
     "markdown-it": "^14.1.0"
-  }
+  },
+  "type": "module"
 }
