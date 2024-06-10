@@ -1,0 +1,28 @@
+{
+  "name": "markdown-it-heimu",
+  "version": "1.0.0",
+  "description": "Markdown It 插件，类似于萌娘百科的黑幕。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djdjz7/markdown-it-heimu.git"
+  },
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "heimu"
+  ],
+  "author": "djdjz7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djdjz7/markdown-it-heimu/issues"
+  },
+  "homepage": "https://github.com/djdjz7/markdown-it-heimu#readme",
+  "devDependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}
